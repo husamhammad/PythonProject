@@ -1,0 +1,66 @@
+student Id :cbcc352ae7 / student Name : husam / student mobile_num :5555555555 / student age :26 / student level :A
+student Id :760c29fc17 / student Name : husam / student mobile_num :444444 / student age :28 / student level :A
+student Id :350eb8d945 / student Name : husam hammad / student mobile_num :22244445558 / student age :24 / student level :A
+student Id :6307111dc6 / student Name : mohammed abunada / student mobile_num :2125842233 / student age :30 / student level :A
+student Id :4af603ec49 / student Name : ccccccc / student mobile_num :6 / student age :3 / student level :A
+student Id :c904f7749e / student Name : Zakaria / student mobile_num :666666666 / student age :77 / student level :B
+student Id :a9f280ee9b / student Name : ggh / student mobile_num :761 / student age :66 / student level :A
+student Id :7f9a87df51 / student Name : husam hammad / student mobile_num :05554899825 / student age :24 / student level :A
+student Id :401a43df52 / student Name : hhfa / student mobile_num :9431 / student age :88 / student level :A
+student Id :a529f4a09d / student Name : hhdd / student mobile_num :88884 / student age :855 / student level :C
+student Id :d4b675730f / student Name : jjjgg / student mobile_num :7633 / student age :883 / student level :B
+student Id :fa683c616e / student Name : Daa / student mobile_num :904433 / student age :30 / student level :A
+student Id :847fb53a3e / student Name : Husam / student mobile_num :555555555555 / student age :25 / student level :A
+student Id :11b4bde465 / student Name : husam hammad / student mobile_num :000055555000 / student age :25 / student level :A
+student Id :a12d5d9898 / student Name : gggg / student mobile_num :9933 / student age :88 / student level :A
+student Id :ad07836f96 / student Name : ddd / student mobile_num :6543 / student age :65 / student level :C
+student Id :f87b115db5 / student Name : jj / student mobile_num :873763 / student age :44 / student level :A
+student Id :5c0c8c81ab / student Name : Salsabeel / student mobile_num :9725776112 / student age :23 / student level :A
+student Id :6354f26404 / student Name : Ali / student mobile_num :972598762 / student age :66 / student level :A
+student Id :c2d03e8a59 / student Name : sss / student mobile_num :223333 / student age :22 / student level :A
+student Id :261511988f / student Name : aa / student mobile_num :223333 / student age :22 / student level :A
+student Id :1eae09c6d9 / student Name : rola na / student mobile_num :0523214214 / student age :20 / student level :A
+student Id :d54e444a67 / student Name : ibrahim / student mobile_num :598 / student age :12 / student level :A
+student Id :9433725503 / student Name : rola na / student mobile_num :0523214214 / student age :20 / student level :A
+student Id :e91ab77050 / student Name : rola na / student mobile_num :0523214214 / student age :20 / student level :A
+student Id :b520f86e67 / student Name : Adam MK / student mobile_num :0097238889 / student age :28 / student level :A
+student Id :4f21cc218a / student Name : aaa / student mobile_num :1 / student age :1 / student level :A
+student Id :96b87ad64c / student Name : b / student mobile_num :b / student age :33 / student level :B
+student Id :f2ae1aee85 / student Name : ÚÈÏ / student mobile_num :1234 / student age :33 / student level :A
+student Id :cf17f0aeca / student Name : zaqout2 / student mobile_num :33 / student age :33 / student level :A
+student Id :99f5876972 / student Name : ffff / student mobile_num :3344 / student age :222 / student level :A
+student Id :2e8fbaa641 / student Name : Abed zaqout / student mobile_num :123456789 / student age :44 / student level :B
+student Id :0b522ac41d / student Name : malek / student mobile_num :22 / student age :21 / student level :A
+student Id :1cba076b5f / student Name : husam / student mobile_num :555555555555 / student age :24 / student level :A
+student Id :0240426c3b / student Name : ibrahim test1 / student mobile_num :12412 / student age :19 / student level :A
+student Id :76c95a6d13 / student Name : Zakaria Omer / student mobile_num :0597222553 / student age :101 / student level :A
+student Id :598d31c512 / student Name : ahmed / student mobile_num :0599123456 / student age :24 / student level :A
+student Id :2fe0c650c2 / student Name : zzz / student mobile_num :32323 / student age :33 / student level :A
+student Id :ba14244ed0 / student Name : ahmed / student mobile_num :0599123456 / student age :24 / student level :A
+student Id :40899727b1 / student Name : mahmoud Ramadan / student mobile_num :0599766992 / student age :33 / student level :A
+student Id :6c0f499504 / student Name : aa / student mobile_num :223333 / student age :22 / student level :A
+student Id :2d98109d2b / student Name : ramii / student mobile_num :1478523 / student age :25 / student level :C
+student Id :85d03a92f7 / student Name : 55 / student mobile_num :666 / student age :66 / student level :C
+student Id :cf289f87e9 / student Name : Edit cli / student mobile_num :new no / student age :23 / student level :B
+student Id :000bdd6c36 / student Name : full_name 222 / student mobile_num :mobile_number / student age :90 / student level :A
+student Id :cdcc59a38d / student Name : 22 / student mobile_num :22 / student age :22 / student level :C
+student Id :2f371d3683 / student Name : 11 / student mobile_num :11 / student age :11 / student level :C
+student Id :e389d888a1 / student Name : Ahmed Ahmed / student mobile_num :599123456 / student age :20 / student level :A
+student Id :0da335184d / student Name : 22 / student mobile_num :22 / student age :22 / student level :B
+student Id :96d91b54b7 / student Name : rola na / student mobile_num :0523214214 / student age :20 / student level :A
+student Id :2e5ccc304d / student Name : 55 / student mobile_num :55 / student age :55 / student level :C
+student Id :0cf2911446 / student Name : 33 / student mobile_num :33 / student age :33 / student level :A
+student Id :627c5c8f58 / student Name : CLI Name / student mobile_num :12345 / student age :78 / student level :C
+student Id :6e274668ce / student Name : 22 / student mobile_num :22 / student age :22 / student level :C
+student Id :5b2286cb88 / student Name : lklkkjkjsad / student mobile_num :56565656 / student age :77 / student level :B
+student Id :b56024d9c1 / student Name : mahmoud / student mobile_num :0599 / student age :25 / student level :B
+student Id :0b427e91ce / student Name : full_name / student mobile_num :mobile_number / student age :20 / student level :A
+student Id :11eaefdf44 / student Name : hhhhhh / student mobile_num :98989898132 / student age :45 / student level :C
+student Id :96d620befe / student Name : Ahmed / student mobile_num :0599999999 / student age :22 / student level :A
+student Id :d25426ba72 / student Name : nnnn / student mobile_num :789797979 / student age :12 / student level :A
+student Id :74d4e72ce3 / student Name : Mahmoud Elhelou / student mobile_num :0599095477 / student age :31 / student level :A
+student Id :ca57d51822 / student Name : Test Student / student mobile_num :78465 / student age :23 / student level :C
+student Id :8a46fb7bbd / student Name : Mohanadss / student mobile_num :4521 / student age :22 / student level :A
+student Id :778f8e424e / student Name : full_name / student mobile_num :mobile_number / student age :20 / student level :A
+student Id :3006fd5d61 / student Name : Mahmood Haeoon / student mobile_num :05995555555 / student age :20 / student level :C
+student Id :7ea7876529 / student Name : Mahmood Haeoon / student mobile_num :05995555555 / student age :20 / student level :C
